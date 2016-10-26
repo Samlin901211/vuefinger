@@ -4,7 +4,10 @@
   "description": "一款基于vue1.0的手势库，支持多种常见的手势",
   "author": "tinylin",
   "license": "ISC",
-  "repository" : "https://registry.npmjs.org/",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:Samlin901211/vuefinger.git"
+  },
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --inline --hot --port 8081",
