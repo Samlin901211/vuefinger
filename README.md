@@ -6,14 +6,14 @@
 [1]: https://raw.githubusercontent.com/Samlin901211/img/master/vuefinger/vue1.0_demo.png
 
 #使用说明
-##1.安装 npm install vuefinger --save
-##2.引入
+* 安装 npm install vuefinger --save
+* 引入
 ```javascript
   import Vue from 'vue'
   import Vuefinger from 'vuefinger'
   Vue.use(Vuefinger)
 ```  
-##3.在需要绑定手势事件的元素上绑定v-finger:options,需要绑定的回调写在options中
+* 在需要绑定手势事件的元素上绑定v-finger:options,需要绑定的回调写在options中
  
 例如:
 ```javascript
