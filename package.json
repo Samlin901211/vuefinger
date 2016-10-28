@@ -1,6 +1,6 @@
 {
   "name": "vuefinger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "一款基于vue1.0的手势库，支持多种常见的手势",
   "author": "tinylin",
   "license": "ISC",
